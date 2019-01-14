@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{54:function(e){e.exports={data:{allPost:{edges:[{node:{_id:"662c2680fc7026c73e68b7a34875a665",title:"Welcome",path:"/blog/welcome"}},{node:{_id:"15376d1fb3e35c18b0d8d59dc2ffc290",title:"Problem with Netlifly",path:"/blog/problem"}}]}}}}}]);
